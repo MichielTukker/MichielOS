@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/gabriel/!svn/ver/1/trunk/kernel
+END
+gdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gabriel/!svn/ver/1/trunk/kernel/gdt.c
+END
+idt.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gabriel/!svn/ver/1/trunk/kernel/idt.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gabriel/!svn/ver/1/trunk/kernel/init.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gabriel/!svn/ver/1/trunk/kernel/main.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gabriel/!svn/ver/1/trunk/kernel/io.c
+END
+pic.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gabriel/!svn/ver/1/trunk/kernel/pic.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gabriel/!svn/ver/1/trunk/kernel/Makefile
+END
+interrupts.asm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gabriel/!svn/ver/1/trunk/kernel/interrupts.asm
+END

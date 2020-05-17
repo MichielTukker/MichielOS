@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/gabriel/!svn/ver/1/trunk/build
+END
+menu.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gabriel/!svn/ver/1/trunk/build/menu.cfg
+END
+link.ld
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gabriel/!svn/ver/1/trunk/build/link.ld
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gabriel/!svn/ver/1/trunk/build/Makefile
+END

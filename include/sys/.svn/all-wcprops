@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gabriel/!svn/ver/1/trunk/include/sys
+END
+pic.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/gabriel/!svn/ver/1/trunk/include/sys/pic.h
+END
+interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gabriel/!svn/ver/1/trunk/include/sys/interrupt.h
+END
+isr.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/gabriel/!svn/ver/1/trunk/include/sys/isr.h
+END
+gdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/gabriel/!svn/ver/1/trunk/include/sys/gdt.h
+END
+idt.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/gabriel/!svn/ver/1/trunk/include/sys/idt.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gabriel/!svn/ver/1/trunk/include/sys/io.h
+END

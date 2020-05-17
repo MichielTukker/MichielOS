@@ -1,0 +1,40 @@
+8
+
+dir
+1
+http://acronica.ath.cx/svn/gabriel/trunk/mm
+http://acronica.ath.cx/svn/gabriel
+
+
+
+2006-11-06T19:50:48.385371Z
+1
+acronica
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2e4b9226-a858-db11-bf7f-00024492b496
+
+phys.c
+file
+
+
+
+
+2007-01-30T20:21:43.703125Z
+395110c7e607413486946c3d3381256c
+2006-11-06T19:50:48.385371Z
+1
+acronica
+
