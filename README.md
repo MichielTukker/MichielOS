@@ -1,2 +1,2 @@
-# GabrielOS
-Gabriel operating system
+# MichielOs
+My own operating system for learning....
